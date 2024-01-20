@@ -108,8 +108,8 @@ climbing. You safely get the cat in your arms and climb down with no difficulty.
 
 def cat_thanks_you():
     print("""
-The cat purrs as it rubs up against you. Her adorableness makes you not mind her
-following you on your way to who knows where. You walk off with the cat on your
+The cat purrs as it rubs up against you. Her adorableness makes you want her to
+follow you on your way to who knows where. You walk off with the cat on your
 side.
 """)
 
